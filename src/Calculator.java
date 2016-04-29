@@ -9,7 +9,7 @@ public class Calculator
     }
     public  void minus()
     {
-        System.out.println("Minus :)");
+        System.out.println("Minus :) + Minus");
     }
     public  void div()
     {
