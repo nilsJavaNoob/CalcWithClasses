@@ -9,7 +9,7 @@ public class Calculator
     }
     public  void minus()
     {
-        sysyem.
+        System.out.println("Minus :)");
     }
     public  void div()
     {
