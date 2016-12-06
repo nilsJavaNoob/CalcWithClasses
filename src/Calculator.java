@@ -1,5 +1,5 @@
 /**
- * Created by n on 29.04.16.
+ *  n on 29.04.16.
  */
 public class Calculator
 {
